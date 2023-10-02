@@ -11,9 +11,9 @@ WeChat （ UOS 👉 Ubuntu ）
 
 ### 流程
 
-1. 安装`2.1.8`版本
+1. 安装[2.1.8](http://archive2.kylinos.cn/deb/kylin/production/PART-V10-SP1/custom/partner/V10-SP1/pool/all/weixin_2.1.8_amd64.deb)版本
 2. 备份`locales`和`resources`
-3. 安装`2.1.4`版本
+3. 安装[2.1.4](https://archive.ubuntukylin.com/software/pool/partner/weixin_2.1.4_amd64.deb)版本
 4. 替换`locales`和`resources`
 
 
